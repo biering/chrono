@@ -1,7 +1,7 @@
-struct Series {
+public struct Series {
     var text = "Hello, World!"
 }
 
-struct TimeSeries {
+public struct TimeSeries {
     var id: Int
 }
